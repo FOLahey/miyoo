@@ -42,6 +42,16 @@ If you are interested in tracking your achievements for the old games you are pl
 
 <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCLV8vMZGRB_ctudvGIYD95Mh-EL9QI4K0Y386t8GCeBCoDs2KCcOouF4nIhHJ2j5okUfnTW9tluFRg3XXNi7oRElf-5CFKNAi7CKrmWk0adSSvaHe62F99S0WC12JxQBbxIbuimED1NtbLTvmLGQ7XJJzefLjc56Ka9He7m_ZyDQV-1ne3so/s1273/retroach.png>
 
+#### Achievement Compatibility
+To check and see which ROM is supported on RetroAchievements, go to the game you are interested to play on RetroAchievements and scroll down 75% through the page till you see Supported Game Files. In there, it will have a version number and a hash. You should try to source that same version number. To ensure that you have the correct file after you download, you can compare the hash against the one on the website. The hash on RetroAchievements is the long string of characters under the name of the game file. 
+
+On Windows, you can generate an MD5 hash for the file you downloaded
+- Windows + r
+- Type `cmd` without quotes then hit enter to open a Command Prompt
+- Navigate to the same directory you downloaded the files. If you downloaded to Downloads, then `cd Downloads`.
+- `certutil -hashfile <file> MD5`
+- EX: `certutil -hashfile "Pokemon Red v1.0.gb" MD5`
+
 #### Hardcore Achievements vs Softcore Achievements
 RetroAchievements distinguishes between "hardcore" and "softcore" achievements. The hardcore achievements are achievements that are achieved during hardcore mode. Hardcore mode can be activated in the settings of RetroArch. Hardcore mode disables save states and cheats and other emulator hacks that could make it easier to achieve the achievement than on regular hardware. Softcore achievements are achievements that are unlocked while hardcore mode is not engaged. These mean that the use of emulator tricks could have aided in unlocking the achievement. Some games rely on save states to fullfill saving functionality in the game. These games you will have to beat in one sitting if you want to play in hardcore mode. Most hardcore mode games just set you back to the title screen everytime you play, softcore mode leaves you in the game where you last left off. 
 
@@ -50,3 +60,6 @@ The Miyoo Mini+ is capable of emulating a wide range of games. Updates to the in
 
 #### Acquiring ROMs
 I am fairly certain it is illegal to directly point you to where to download ROMs, but most ROMs are considered to be abandonware, so they are fairly available. Googling the game you want and ROM should lead you to a myriad of websites. Many ROMs are featured in the Internet Archive, and likewise, there is a Lair owned by a guy whose name is a text editor for Linux that has a good selection of games available. Download these games and sync them to their appropriate directories inside the ROMs directory. FC=Famicom=NES, SFC=Super Famicom=Super Nintendo
+
+#### ROM Hacks
+There is a wild world out there these days. For decades, people have been hacking ROMs. But recently, people have gotten really good at working with the decompiled assets of games of the past. The genius programmers of the world are taking assets from existing games and are using them to improve existing games, removing bugs and adding in Quality of Life additions. Some people are even creating entire new games using existing assetts, like a Pokemon game where you play as Team Rocket against the anime's protagonist. Many of these ROM hacks are available to be tracked on RetroAchievements as well. 
