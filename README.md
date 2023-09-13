@@ -15,7 +15,7 @@ The Miyoo Mini+ is one of several new handheld emulators that have been released
 - Smaller than a phone, larger screen than a Gameboy 
 
 ## Hardware
-- [Miyoo Mini+](https://www.amazon.com/Miyoo-Mini-Plus-Handheld-Dedicated/dp/B0CB6TQ3H1/ref=sr_1_5?crid=2VQRWKHEE57G3&keywords=miyoo+mini+plus&qid=1694445184&sprefix=miyoo%2Caps%2C199&sr=8-5&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) (Comes with case. Screen is fragile.)
+- [Miyoo Mini+](https://www.amazon.com/Miyoo-Mini-Plus-Handheld-Dedicated/dp/B0CB6TQ3H1/ref=sr_1_5?crid=2VQRWKHEE57G3&keywords=miyoo+mini+plus&qid=1694445184&sprefix=miyoo%2Caps%2C199&sr=8-5&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) (Comes with case. Screen is fragile. Should be less than $80.)
 - [SD Card](https://www.amazon.com/SAMSUNG-microSDXC-Expanded-MB-ME128KA-AM/dp/B09B1JFY24/ref=pd_bxgy_sccl_1/145-7827923-7958051?pd_rd_w=xqmyJ&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=7TXZQ0NA0TZT932RE302&pd_rd_wg=skWfP&pd_rd_r=e3281e84-0ae3-4088-8403-98dac932d920&pd_rd_i=B09B1JFY24&th=1) (Must buy a new SD card as the default is corruptable.)
 
 ## Software
