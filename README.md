@@ -12,7 +12,8 @@ The Miyoo Mini+ is one of several new handheld emulators that have been released
   - Play local multiplayer games like they are wireless
   - Play multiplayer games over the wifi
   - Sync roms remotely over SSH/FTP
-- Smaller than a phone, larger screen than a Gameboy 
+- Smaller than a phone, larger screen than a Gameboy
+- -Rumble Support 
 
 ## Hardware
 - [Miyoo Mini+](https://www.amazon.com/Miyoo-Mini-Plus-Handheld-Dedicated/dp/B0CB6TQ3H1/ref=sr_1_5?crid=2VQRWKHEE57G3&keywords=miyoo+mini+plus&qid=1694445184&sprefix=miyoo%2Caps%2C199&sr=8-5&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) (Comes with case. Screen is fragile. Should be less than $80.)
