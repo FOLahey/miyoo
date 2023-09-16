@@ -64,3 +64,6 @@ I am fairly certain it is illegal to directly point you to where to download ROM
 
 #### ROM Hacks
 There is a wild world out there these days. For decades, people have been hacking ROMs. But recently, people have gotten really good at working with the decompiled assets of games of the past. The genius programmers of the world are taking assets from existing games and are using them to improve existing games, removing bugs and adding in Quality of Life additions. Some people are even creating entire new games using existing assetts, like a Pokemon game where you play as Team Rocket against the anime's protagonist. Many of these ROM hacks are available to be tracked on RetroAchievements as well. 
+
+## Wireless Functions
+OnionOS comes bundled with some amazing quality of life features to add and remove files from your Miyoo Mini+. You can go to the Main Menu->Apps->Tweaks->Network and from there, you can toggle on an HTTP Web Server that you can access in your browser. The default credentials are admin/admin. You access it by going to the IP address of your Miyoo Mini in your web browser on a computer or phone connected to the same wifi. You can reset the password in the settings of this web UI. You could also enable SSH from this menu. Will update when I figure out the default SSH credentials. 
